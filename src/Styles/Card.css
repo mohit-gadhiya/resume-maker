@@ -1,0 +1,17 @@
+div{
+    margin-bottom:1rem;
+    margin-left: 4rem;
+
+}
+.name{
+    margin-top:3rem;
+}
+h3{
+    display:inline;
+    margin-right: 2rem;;
+}
+.submit-btn{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
